@@ -20,10 +20,10 @@ A dynamic and responsive **Job Portal web application** built with **Django** fo
 
 - **Backend:** Django 4.x (Python)
 - **Frontend:** HTML5, CSS3, Bootstrap 5
-- **Database:** SQLite (default) or PostgreSQL
+- **Database:** SQLite (default) 
 - **Authentication:** Django’s built-in auth system
 
 ---
 
-## 📁 Project Structure
+
 
